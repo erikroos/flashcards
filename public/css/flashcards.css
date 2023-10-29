@@ -1,0 +1,16 @@
+a.disabled {
+    pointer-events: none;
+    color: #ccc;
+}
+
+ul.my-list li.first-col {
+    width: 16em;
+}
+
+ul.my-list li.btn-col {
+    width: 8em;
+}
+
+.spacer {
+    height: 1em;
+}
